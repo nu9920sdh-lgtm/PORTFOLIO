@@ -1,0 +1,133 @@
+/* ===== Typography ===== */
+body {
+    font-family: 'Pretendard', sans-serif;
+}
+
+.nav-list a {
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+
+.hero-subtitle {
+    font-family: 'Sixtyfour', sans-serif;
+    font-size: 52px;
+    letter-spacing: 0.18em;
+    line-height: 1.2;
+}
+
+.hero-title {
+    font-family: 'Sora', sans-serif;
+    font-size: 160px;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    line-height: 1;
+}
+
+.hero-name {
+    font-family: 'Sora', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+}
+
+.about-subtitle, .projects-subtitle {
+    font-family: 'Sora', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    letter-spacing: -2.2px;
+}
+
+.info-title .skills-title {
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: -0.7px;
+}
+
+.info-item {
+    font-size: 21px;
+    font-weight: 400;
+}
+
+.describe {
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: -0.7px;
+}
+.describe-title {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: -0.7px;
+}
+
+/* PROJECTS DETAIL typography */
+.detail-main-title {
+    font-family: 'Sora', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    letter-spacing: -2.2px;
+}
+
+.detail-dropdown-btn {
+    font-family: 'Pretendard', sans-serif;
+    font-size: 14.07px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0;
+}
+
+.detail-dropdown-item {
+    font-family: 'Pretendard', sans-serif;
+    font-size: 14.07px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0;
+}
+
+.detail-project-title {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+}
+
+.detail-project-type {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.detail-desc {
+    font-family: 'Pretendard', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: -0.5px;
+    color: #000;
+}
+
+.detail-skills-label {
+    font-family: 'Pretendard', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: -1.8px;
+    color: #000;
+}
+
+.detail-meta-label {
+    font-family: 'Pretendard', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000;
+    letter-spacing: -0.8px;
+}
+
+.detail-meta-value {
+    font-family: 'Pretendard', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000;
+    letter-spacing: 0;
+}

@@ -1,0 +1,7 @@
+/* header 인터렉션 코드 */
+.hero-subtitle span,
+.hero-title span {
+    display: inline-block;
+    white-space: pre;
+    overflow: hidden;
+}

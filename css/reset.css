@@ -1,0 +1,10 @@
+* { margin: 0; padding: 0; vertical-align: top; }
+li { list-style: none; }
+a { text-decoration: none; }
+p { word-break: keep-all; }
+img { border: 0; max-width: 100%; }
+input, select { appearance: none; outline: none; }
+body {
+    font-family: "Pretendard Variable", Pretendard, sans-serif;
+    max-width: 1920px; min-width: 320px; margin: 0 auto;
+}
