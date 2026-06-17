@@ -30,7 +30,7 @@ var detailProjects = [
         dropdownName: 'Mirror Me APP',
         type: 'Mobile APP Service',
         desc: 'article article article article article article article article article article article article article article article article article article article article article article article article article article article article article article',
-        contribution: '80%',
+        contribution: '70%',
         period: '2026.04-2026.05',
         pcScreen: { placeholder: 'PC FULL PAGE', ratio: '1920 / 5000' },
         mobileScreen: { placeholder: 'MOBILE FULL PAGE', ratio: '1920 / 5000' },
