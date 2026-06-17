@@ -8,8 +8,8 @@ var detailProjects = [
         desc: 'article article article article article article article article article article article article article article article article article article article article article article article article article article article article article article',
         contribution: '100%',
         period: '2026.04-2026.05',
-        pcScreen: { image: '/images/freitag_pc.png', alt: 'FREITAG redesign PC full page', verticalPadding: true },
-        mobileScreen: { image: '/images/Main_Mobile.png', alt: 'FREITAG redesign mobile full page' },
+        pcScreen: { image: './images/freitag_pc.png', alt: 'FREITAG redesign PC full page', verticalPadding: true },
+        mobileScreen: { image: './images/Main_Mobile.png', alt: 'FREITAG redesign mobile full page' },
     },
     {
         title: 'Nintendo Redesign',
@@ -20,7 +20,7 @@ var detailProjects = [
         desc: 'article article article article article article article article article article article article article article article article article article article article article article article article article article article article article article',
         contribution: '100%',
         period: '2026.04-2026.05',
-        pcScreen: { image: '/images/nintendo_PC.jpg', alt: 'Nintendo redesign PC full page', verticalPadding: true, shiftRight: true },
+        pcScreen: { image: './images/nintendo_PC.jpg', alt: 'Nintendo redesign PC full page', verticalPadding: true, shiftRight: true },
         mobileScreen: { placeholder: 'MOBILE FULL PAGE', ratio: '1920 / 5000' },
     },
     {
@@ -44,8 +44,8 @@ var detailProjects = [
         desc: 'article article article article article article article article article article article article article article article article article article article article article article article article article article article article article article',
         contribution: '100%',
         period: '2026.04-2026.05',
-        pcScreen: { image: '/images/먼작귀_개인페이지 코딩.png', alt: 'EDIYA COFFEE X 먼작귀 PC full page', verticalPadding: true },
-        mobileScreen: { image: '/images/chiikawa_phone.png', alt: 'EDIYA COFFEE X 먼작귀 mobile full page', zoom: true },
+        pcScreen: { image: './images/먼작귀_개인페이지 코딩.png', alt: 'EDIYA COFFEE X 먼작귀 PC full page', verticalPadding: true },
+        mobileScreen: { image: './images/chiikawa_phone.png', alt: 'EDIYA COFFEE X 먼작귀 mobile full page', zoom: true },
     },
     {
         title: 'Team Domingo',
